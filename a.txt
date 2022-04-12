@@ -1,2 +1,5 @@
 Noi Dung A
 Sua boi Beta
+
+test stash1
+test stash2
